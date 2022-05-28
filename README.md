@@ -4,7 +4,7 @@ COURSE CURRICULUM:
 
  - Unit Testing and Nunit
  - API Testing and REST
-    # Postman collection
+    1.	The Project for Testing: GitHub Issues API
  - Selenium-Basics
  - Selenium Advanced and POM
  - Appium Desktop Testing
