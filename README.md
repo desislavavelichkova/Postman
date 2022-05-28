@@ -1,6 +1,6 @@
 # SoftUni-QA-Automation
 
-# COURSE CURRICULUM:
+COURSE CURRICULUM:
 
  - Unit Testing and Nunit
  - API Testing and REST
